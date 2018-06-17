@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\lib\java-google-speech-api-V2.0.jar"
+        revision="25.0.2"
+        sha1="dbb1bbc4420b40a6a728fc387d2c04377b2f64b4">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\java-google-speech-api-V2.0-450cecabcecf04b8a1ab83bfeb83b34b5a8152be.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\ca2cbae93a1f1d072321e42e2e22d24baec14978\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-cb6fcb9f9d38d3ac56c0c88257e560d60afe1887.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\8795a8217ff9710a6dd48aeeded2fa1db7d473d2\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-db25965428596591a4ff96895376840bc1fe7773.jar" />
+    </item>
+    <item
+        jar="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\lib\json-20150729.jar"
+        revision="25.0.2"
+        sha1="7ad48f520e9f94787fdbf2beb9916c76971bdcb0">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\json-20150729-8377260fbe73f99a596351cfe3cf28dac278c4ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\107a25bb38304a33fbb8656ffae377dce956110e\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2f92186ebfe57f7daea9f4266cfb73fc40fab951.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\fb3f5a546e6864a7dd1dcd8212650a42484f4de0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1c33024b016074d53685e966543306a7914f2d59.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\27ed0904b36f5f9b0707cbfef797b77db2842cb9\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-24a2a379ee71913adcf0035243e3d117058cf758.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\AppData\Local\Android\Sdk\platforms\android-23\android.jar"
+        revision="25.0.2"
+        sha1="eee3e49de0e3c71c5f278ba7e4fe847483f9084c">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-381fe51e1d5826ebaebc94461f125356d5dd9b2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\27ed0904b36f5f9b0707cbfef797b77db2842cb9\output\jars\libs\internal_impl-23.4.0.jar"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-23.4.0-cc7491a19859b9360b9fb3ae21a7510f12e33a52.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\AppData\Local\Android\Sdk\platforms\android-23\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-5d493d399888aacb0af8794640f23332d88672ec.jar" />
+    </item>
+    <item
+        jar="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\lib\google-api-translate-java-0.95.jar"
+        revision="25.0.2"
+        sha1="8b94330315c362f23ffc23a994ad0b778862ffd4">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\google-api-translate-java-0.95-bf5a6b8b3df3f1462341715801107d6d3923c06c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\4f5a3aa4c798c58cd0191ce4ec21e5c2e8e2bc71\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7ddc29643fb22db5b8fcdc365c60274a44f7d29a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\a97c4f3099796314ba358e0e2a0149adc461f29d\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-23fbfd0352bb488675379345a274fefafbe551ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\96670a7d6f17df55a10650936a4d623344cb3c85\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-67325e2312fea3dcd11db1cceea31f4c34b02692.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\7e213d0769d7bfc8f751c73d7aeb5b5a618a4b67\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0ed2fb646662f3e66413186aa18c24bb6400b5ab.jar" />
+    </item>
+    <item
+        jar="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\lib\java-flac-encoder-0.3.7.jar"
+        revision="25.0.2"
+        sha1="1c5ae8998ff124d619bdc68eed52ad491f22eda3">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\java-flac-encoder-0.3.7-bf9a6ddfddf051ee0b7a6b9ad6452de6cee8d6ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\.android\build-cache\66447b10075ed1453374008c2f504cdde5bbf0e2\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5e8021e6badf4271d34bed9c100890d21e9bb32b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sangk\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\AndroidCourse\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-23.4.0-8bb7566f512ef509bd785465f23885efdb31add8.jar" />
+    </item>
+
+</items>

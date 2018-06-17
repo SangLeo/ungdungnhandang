@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-translation\\app\\build\\intermediates\\res\\merged\\debug\\raw\\language1.png",
+        "source": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-translation\\app\\src\\main\\res\\raw\\language1.png"
+    },
+    {
+        "merged": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vietanh.txt",
+        "source": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\src\\main\\res\\raw\\vietanh.txt"
+    },
+    {
+        "merged": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\raw\\language2.png",
+        "source": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\src\\main\\res\\raw\\language2.png"
+    },
+    {
+        "merged": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-translation\\app\\build\\intermediates\\res\\merged\\debug\\raw\\language2.png",
+        "source": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-translation\\app\\src\\main\\res\\raw\\language2.png"
+    },
+    {
+        "merged": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-translation\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vietanh.txt",
+        "source": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-translation\\app\\src\\main\\res\\raw\\vietanh.txt"
+    },
+    {
+        "merged": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\raw\\language1.png",
+        "source": "E:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\src\\main\\res\\raw\\language1.png"
+    }
+]

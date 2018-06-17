@@ -1,0 +1,7 @@
+#Fri Jun 15 01:09:43 ICT 2018
+base.0=E\:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_97bfdbf66e6fd65921840fda5f2208044561cde9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b4cbbf5150cf5e536c408100b01b908c571737cc\\classes.dex
+base.1=E\:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b4cbbf5150cf5e536c408100b01b908c571737cc
+file.0=E\:\\AndroidCourse\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_97bfdbf66e6fd65921840fda5f2208044561cde9\\classes.dex
